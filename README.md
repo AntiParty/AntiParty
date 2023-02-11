@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antiparty</h1>
-<h3 align="center">A 17 year old learning the in's and outs</h3>
+<h3 align="center">A 18 year old learning the in's and outs</h3>
 
 <p align="left"> <a href="https://twitter.com/antiparty_" target="blank"><img src="https://img.shields.io/twitter/follow/antiparty_?logo=twitter&style=for-the-badge" alt="antiparty_" /></a> </p>
 
