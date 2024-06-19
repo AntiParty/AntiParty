@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/antiparty_" target="blank"><img src="https://img.shields.io/twitter/follow/antiparty_?logo=twitter&style=for-the-badge" alt="antiparty_" /></a> </p>
 
-- 🔭 I’m currently working on [SkyboxConverter (Carx Drift Racing)](https://github.com/AntiParty/SkyboxConverter-)
+- 🔭 I’m currently working on [CarX Spotify Mod (Carx Drift Racing)](https://github.com/AntiParty/CarX-Spotify-Mod-Source)
 
 - 🌱 I’m currently learning **C#, Javscript, python**
 
