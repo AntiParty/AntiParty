@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Spectre projects <br>🤝 I’m looking for help with c++/Anticheat development<br>🌱 I’m currently learning Unreal engine anticheat dev stuff/c++
+🔭 I’m currently working on Spectre projects <br>🤝 I’m looking for help with c++/Anticheat development<br>🌱 I’m currently learning Unreal engine anticheat dev stuff/c++
 
 
 ## 🌐 Socials:
